@@ -37,3 +37,5 @@ Type: Type of glass: (class attribute)
 6 --tableware
 
 7 –headlamps
+
+File:glass.csv
